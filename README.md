@@ -25,6 +25,11 @@ NWPU RESISC45:
 
 http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
+First, we combine NWPU and AID together to construct a merged data set (called N_A) with 55 categories. There are 19 identical categories between N_A and UCM. We select these classes in N_A as the source domain, while using the 19 identical categories in UCM as the target domain. Thus, we get the first transfer task: N_A→UCM.
+Second, there are 22 same categories between N_A and PatternNet. We choose these categories in N_A as the source domain, while adopting the 22 identical classes in PatternNet as the target domain. Hence, we implement the second transfer task: N_A→PatternNet.
+Third, as the newly proposed data sets, VA, VB, and VG have 38 identical classes. We use either of these data sets as the source domain or the target domain, and then carry out the other six transfer tasks: VA→VB, VA→VG, VB→VA, VB→VG, VG→VA, and VG→VB.
+
+
 ## Environments
 
 1. Ubuntu 18.04
