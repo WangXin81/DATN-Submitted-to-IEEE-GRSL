@@ -4,7 +4,7 @@ Dropout-based Adversarial Training Networks for Remote Sensing Scene Classificat
 ## Usage
 
 1. Data preparation: `make_list.py` 
-2. python train.py --gpu_id 0 --net ResNet50 --dset N_A --s_dset_path ../data/N_A/N_A_list.txt --t_dset_path ../data/Dt-UCM/Dt-UCM_list.txt
+2. python `train.py` --gpu_id 0 --net ResNet50 --dset N_A --s_dset_path ../data/N_A/N_A_list.txt --t_dset_path ../data/Dt-UCM/Dt-UCM_list.txt
 
 
 ## Figs
