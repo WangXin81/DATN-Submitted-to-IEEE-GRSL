@@ -25,6 +25,22 @@ NWPU RESISC45:
 
 http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
+PatternNet:
+
+https://sites.google.com/view/zhouwx/dataset#h.p_Tgef10WTuEFr
+
+VArcGIS:
+
+https://aistudio.baidu.com/aistudio/datasetdetail/47630
+
+VBing:
+
+https://aistudio.baidu.com/aistudio/datasetdetail/47638
+
+VGoogle:
+
+https://aistudio.baidu.com/aistudio/datasetdetail/47619
+
 First, we combine NWPU and AID together to construct a merged data set (called N_A) with 55 categories. There are 19 identical categories between N_A and UCM. We select these classes in N_A as the source domain, while using the 19 identical categories in UCM as the target domain. Thus, we get the first transfer task: N_A→UCM.
 
 Second, there are 22 same categories between N_A and PatternNet. We choose these categories in N_A as the source domain, while adopting the 22 identical classes in PatternNet as the target domain. Hence, we implement the second transfer task: N_A→PatternNet.
