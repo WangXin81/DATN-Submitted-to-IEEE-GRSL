@@ -1,11 +1,5 @@
 # DATN-Submitted-to-IEEE-GRSL
-# ACRNet(Published in IEEE-GRSL 2021): Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification
-
-#### [Xin Wang](https://github.com/WangXin81) , [Lin Duan](https://github.com/devenin) , Aiye Shi , Huiyu Zhou
-
-Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification[[Paper link\]](https://ieeexplore.ieee.org/document/9399658)
-
-
+# Dropout-based Adversarial Training Networks for Remote Sensing Scene Classification (This paper has been submitted to IEEE-GRSL in 2021.)
 
 ## Usage
 
@@ -31,9 +25,7 @@ dataset|——train
 
 ## Figs
 
-![image-20210601165926181](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171017.png)
-
-![image-20210601170003592](https://github.com/WangXin81/ACRNet/blob/main/2021-06-01_171035.png)
+![image-20210601165926181](https://github.com/WangXin81/DATN-Submitted-to-IEEE-GRSL/blob/main/fig1.png)
 
 ## Datasets:
 
