@@ -1,5 +1,5 @@
 # DATN-Submitted-to-IEEE-GRSL
-# Dropout-based Adversarial Training Networks for Remote Sensing Scene Classification (This paper has been submitted to IEEE-GRSL in 2021.)
+Dropout-based Adversarial Training Networks for Remote Sensing Scene Classification (This paper has been submitted to IEEE-GRSL in 2021.)
 
 ## Usage
 
