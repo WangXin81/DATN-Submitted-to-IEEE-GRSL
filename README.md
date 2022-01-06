@@ -3,25 +3,9 @@ Dropout-based Adversarial Training Networks for Remote Sensing Scene Classificat
 
 ## Usage
 
-1. Data preparation: `split.py`
+1. Data preparation: `make_list.py` 
+2. python train.py --gpu_id 0 --net ResNet50 --dset N_A --s_dset_path ../data/N_A/N_A_list.txt --t_dset_path ../data/Dt-UCM/Dt-UCM_list.txt
 
-```
-dataset|——train
-	   |——Airport
-	   |——BareLand
-	   |——....
-	   |——Viaduct
-       |——val
-	   |——Airport
-	   |——BareLand
-	   |——....
-	   |——Viaduct
-```
-
-
-
-2. run `train.py` to train the model
-3. `confusionmatrix.py` for drawing
 
 ## Figs
 
@@ -45,4 +29,5 @@ http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
 1. Ubuntu 18.04
 2. cuda 10.0
-3. pytorch 1.4
+3. Pytorch 1.4
+4. Python 3.6
