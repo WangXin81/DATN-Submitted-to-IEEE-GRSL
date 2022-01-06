@@ -27,7 +27,7 @@ dataset|——train
 
 ![image-20210601165926181](https://github.com/WangXin81/DATN-Submitted-to-IEEE-GRSL/blob/main/fig1.png)
 
-## Datasets:
+## Datasets
 
 UC Merced Land Use Dataset: 
 
