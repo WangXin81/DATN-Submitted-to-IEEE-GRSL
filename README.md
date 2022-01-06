@@ -43,24 +43,6 @@ http://www.escience.cn/people/JunweiHan/NWPU-RESISC45.html
 
 ## Environments
 
-1. Ubuntu 16.04
+1. Ubuntu 18.04
 2. cuda 10.0
-3. pytorch 1.0.1
-4. opencv 3.4
-
-## Citation
-
-Please cite our paper if you find the work useful:
-
-```
-@ARTICLE{9399658,
- author={Wang, Xin and Duan, Lin and Shi, Aiye and Zhou, Huiyu},
- journal={IEEE Geoscience and Remote Sensing Letters},
- title={Multilevel Feature Fusion Networks With Adaptive Channel Dimensionality Reduction for Remote Sensing Scene Classification},
- year={2021},
- volume={}, 
- number={}, 
- pages={1-5}, 
- doi={10.1109/LGRS.2021.3070016}}
-```
-
+3. pytorch 1.4
