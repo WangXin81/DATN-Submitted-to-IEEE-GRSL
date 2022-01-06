@@ -13,7 +13,7 @@ Dropout-based Adversarial Training Networks for Remote Sensing Scene Classificat
 
 ## Datasets
 
-UC Merced Land Use Dataset: 
+UCMerced_LandUse Dataset: 
 
 http://weegee.vision.ucmerced.edu/datasets/landuse.html
 
